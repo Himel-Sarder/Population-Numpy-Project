@@ -1,2 +1,3 @@
 # Project-Population-Numpy
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/d22e8917-d250-4705-93a7-4d812079a2ec)
+
